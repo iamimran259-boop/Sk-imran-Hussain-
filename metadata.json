@@ -1,0 +1,7 @@
+{
+  "name": "ScribeAI - Text to Handwriting",
+  "description": "Convert typed text or uploaded documents (PDF/Images) into realistic handwriting styles with customizable paper and ink.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
